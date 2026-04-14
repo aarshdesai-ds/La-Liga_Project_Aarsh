@@ -158,6 +158,13 @@ Cross-model residual correlations reveal whether modelling errors are shared (sy
 - PE and xG residuals are correlated (0.640) — both capture similar "quality gap"
 - Odds residuals are largely independent (0.215 with PE) — market errors have different drivers
 
+### 6. COVID-19 Removed Measurable Home Advantage
+- Home win rate dropped significantly during the 2019-21 fanless seasons (statistically significant, p<0.05)
+- Average home goal differential collapsed toward zero without crowd support
+- Bet365 odds maintained their structural home bias even during COVID — the market was slow to adjust
+- Home advantage partially but not fully recovered in post-COVID seasons
+- Large team-level heterogeneity: some clubs lost their home fortress entirely, others were barely affected
+
 ---
 
 ## Project Structure
